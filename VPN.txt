@@ -1,0 +1,21 @@
+0.0.0.0 tunnelbear.com
+0.0.0.0 dotvpn.com
+0.0.0.0 tellmar.com
+0.0.0.0 hoxx.com
+0.0.0.0 welcomepage.org
+0.0.0.0 www.tuxler.com
+0.0.0.0 freevpn.zone
+0.0.0.0 freevpn.zone
+0.0.0.0 vpnunlimitedapp.com
+0.0.0.0 www.keepsolid.com
+0.0.0.0 zenmate.com
+0.0.0.0 safervpn.com
+0.0.0.0 vk.com
+0.0.0.0 VPN-free.pro
+0.0.0.0 tunnello.com
+0.0.0.0 hotjar.com
+0.0.0.0 www.avira.com
+0.0.0.0 avira-vpn.com
+0.0.0.0 proxy.phantom.avira-vpn.com
+0.0.0.0 phantom.avira-vpn.com
+

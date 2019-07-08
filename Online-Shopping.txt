@@ -1,0 +1,110 @@
+0.0.0.0	www.amazon.in
+0.0.0.0	www.flipkart.com
+0.0.0.0	www.nearbuy.com
+0.0.0.0	www.paytm.com
+0.0.0.0	www.askmebazaar.com
+0.0.0.0	www.shopclues.com
+0.0.0.0	www.snapdeal.com
+0.0.0.0	www.yepme.com
+0.0.0.0	www.jabong.com
+0.0.0.0	www.fashionandyou.com
+0.0.0.0	www.fashionara.com
+0.0.0.0	www.homeshop18.com
+0.0.0.0	www.zotezo.com
+0.0.0.0	shopping.indiatimes.com
+0.0.0.0	www.bata.in
+0.0.0.0	www.trendin.com
+0.0.0.0	www.americanswan.com
+0.0.0.0	www.abof.com
+0.0.0.0	www.Bestlylish.com
+0.0.0.0	www.myntra.com
+0.0.0.0	www.ebay.in
+0.0.0.0	www.shopping.rediff.com
+0.0.0.0	www.infibeam.com
+0.0.0.0	www.zovi.com
+0.0.0.0	www.freecultr.com
+0.0.0.0	www.fnp.com
+0.0.0.0	www.flora69.com
+0.0.0.0	www.excitinglives.com
+0.0.0.0	www.archiesonline.com
+0.0.0.0	www.cafegadgets.com
+0.0.0.0	www.mambomart.com
+0.0.0.0	www.hindglobal.in
+0.0.0.0	www.indiavarta.com
+0.0.0.0	www.tmhshop.com
+0.0.0.0	www.bookadda.com
+0.0.0.0	www.cromaretail.com
+0.0.0.0	www.coralhub.com
+0.0.0.0	www.letsshop.in
+0.0.0.0	www.timtara.com
+0.0.0.0	www.naaptol.com
+0.0.0.0	www.bigadda.com
+0.0.0.0	www.futurebazaar.com
+0.0.0.0	www.pepperfry.com
+0.0.0.0	www.chaupaati.in
+0.0.0.0	www.themobilestore.in
+0.0.0.0	www.zoomin.com
+0.0.0.0	www.printvenue.com
+0.0.0.0	www.snapgalaxy.com
+0.0.0.0	www.playgroundonline.com
+0.0.0.0	www.healthkart.com
+0.0.0.0	www.dailydealbazaar.com
+0.0.0.0	www.aajkacatch.com
+0.0.0.0	www.hushbabies.com
+0.0.0.0	www.firstcry.com
+0.0.0.0	www.babyoye.com
+0.0.0.0	www.balgopal.com
+0.0.0.0	www.yatra.com
+0.0.0.0	www.cleartrip.com
+0.0.0.0	www.goibibo.com
+0.0.0.0	www.redbus.in
+0.0.0.0	www.abhibus.com
+0.0.0.0	www.travelyaari.com
+0.0.0.0	www.ticketgoose.com
+0.0.0.0	www.makemytrip.com
+0.0.0.0	www.foodpanda.in
+0.0.0.0	www.dominos.co.in
+0.0.0.0	www.mcdonaldsindia.com
+0.0.0.0	www.pizzahut.co.in
+0.0.0.0	www.justeat.in
+0.0.0.0	www.tastykhana.in
+0.0.0.0	www.tinyowl.com
+0.0.0.0	www.faasos.com
+0.0.0.0	www.box8.in
+0.0.0.0	www.kfc.co.in
+0.0.0.0	www.swiggy.com
+0.0.0.0	Freecharge.in
+0.0.0.0	PayTm.com
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
