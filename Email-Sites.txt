@@ -66,3 +66,8 @@
 0.0.0.0	Spamgourmet.com
 0.0.0.0	TempInbox.com
 0.0.0.0	ZoEmail.com
+0.0.0.0 mail.yahoo.com
+0.0.0.0 overview.mail.yahoo.com
+0.0.0.0 in.mail.yahoo.com
+0.0.0.0 mail.yahoo.com
+
