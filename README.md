@@ -23,6 +23,10 @@ Blacklist - Block websites - India - online shopping - Jobs - downloads - torren
 <td><strong>VPN</strong></td>
 <td align="center"><a href="https://github.com/sachinsamylist/Blacklist/blob/master/VPN.txt">LINK</a></td>
 </tr>
+<tr>
+<td><strong>VPN</strong></td>
+<td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/Email-Sites.txt">LINK</a></td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
