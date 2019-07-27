@@ -12,19 +12,19 @@ Blacklist - Block websites - India - online shopping - Jobs - downloads - torren
 </thead>
 <tbody>
 <tr>
-<td><strong>Jobs Sites</strong></td>
+<td><strong>Jobs-Sites-List</strong></td>
 <td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/Job.txt">LINK</a></td>
 </tr>
 <tr>
-<td><strong>Online Shopping Sites</strong></td>
+<td><strong>Online-Shopping Sites-List</strong></td>
 <td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/Online-Shopping.txt">LINK</a></td>
 </tr>
 <tr>
-<td><strong>VPN</strong></td>
+<td><strong>VPN-List</strong></td>
 <td align="center"><a href="https://github.com/sachinsamylist/Blacklist/blob/master/VPN.txt">LINK</a></td>
 </tr>
 <tr>
-<td><strong>VPN</strong></td>
+<td><strong>Email-Sites-List</strong></td>
 <td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/Email-Sites.txt">LINK</a></td>
 </tr>
 </tbody>
