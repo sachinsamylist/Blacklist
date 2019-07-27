@@ -27,6 +27,9 @@ Blacklist - Block websites - India - online shopping - Jobs - downloads - torren
 <td><strong>Email-Sites-List</strong></td>
 <td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/Email-Sites.txt">LINK</a></td>
 </tr>
+<td><strong>activate-Sites-List</strong></td>
+<td align="center"><a href="https://raw.githubusercontent.com/sachinsamylist/Blacklist/master/activate.txt">LINK</a></td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
