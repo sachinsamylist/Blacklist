@@ -1,3 +1,4 @@
+
 0.0.0.0	gmail.com
 0.0.0.0	m.gmail.com
 0.0.0.0	googlemail.com
@@ -50,6 +51,7 @@
 0.0.0.0	L8r.nu
 0.0.0.0	Postful.com
 0.0.0.0	Pranketh.com
+0.0.0.0 mail.google.com
 0.0.0.0	ShinyLetter.com
 0.0.0.0	2Prong.com
 0.0.0.0	Dodgeit.com
