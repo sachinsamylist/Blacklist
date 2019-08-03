@@ -72,4 +72,5 @@
 0.0.0.0 overview.mail.yahoo.com
 0.0.0.0 in.mail.yahoo.com
 0.0.0.0 mail.yahoo.com
+0.0.0.0 mail.google.com
 
