@@ -12,4 +12,9 @@
 0.0.0.0 touch.facebook.com
 0.0.0.0 0.facebook.com
 0.0.0.0 messenger.com
+0.0.0.0 facebook.net
+0.0.0.0	api.facebook.com
+0.0.0.0 api.facebook.net
+0.0.0.0	connect.facebook.net
+0.0.0.0	connect.facebook.com
 
