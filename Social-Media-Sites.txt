@@ -3,3 +3,13 @@
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
 0.0.0.0 i.instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 blog.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 mobile.facebook.com
+0.0.0.0 touch.facebook.com
+0.0.0.0 0.facebook.com
+0.0.0.0 messenger.com
+
