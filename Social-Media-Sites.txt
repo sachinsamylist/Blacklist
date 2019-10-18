@@ -17,4 +17,10 @@
 0.0.0.0 api.facebook.net
 0.0.0.0	connect.facebook.net
 0.0.0.0	connect.facebook.com
-
+0.0.0.0	orcart.facebook.com
+0.0.0.0	fbstatic-a.akamaihd.net 
+0.0.0.0	api.facebook.com
+0.0.0.0	orcart.facebook.com
+0.0.0.0	fbexternal-a.akamaihd.net
+0.0.0.0	fbcdn-profile-a.akamaihd.net
+0.0.0.0	graph.facebook.com
